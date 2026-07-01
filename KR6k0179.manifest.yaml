@@ -1,0 +1,368 @@
+canonical_identifier: bkk:krp/KR6k0179/v1
+canonical_location: https://kanripo.org/bkk/KR6k0179/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 淨心誡觀法
+  identifiers:
+    alt_id:
+    - T45n1893
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1893.xml
+    old_id: T45n1893
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0179_000.yaml, hash: 'sha256:038aa48ca8bc296294a728b6f4cf6b50b0f374122280e80a0e460682511aef2b'}
+  - {seq: 1, filename: KR6k0179_001.yaml, hash: 'sha256:0f2870e83a05b21a59c73b89534987a28164fa5b05afa085d313d5e851f83342'}
+  - {seq: 2, filename: KR6k0179_002.yaml, hash: 'sha256:b71d40ac7a1c7bdc385b8a90f0dac4c69e1188f231b271c0a112657f201659d0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0179_000.markers.yaml, hash: 'sha256:c07acc89d387ea188e27f80d344d2394caeebe832132e9bb2363c7c54cc4f53e'}
+  - {seq: 1, role: markers, filename: assets/KR6k0179_001.markers.yaml, hash: 'sha256:36709f7a286079529f0f15ba061e4098c7b4789d1724e283eaadb5dae8c1cddf'}
+  - {seq: 2, role: markers, filename: assets/KR6k0179_002.markers.yaml, hash: 'sha256:3f3678b1cf0fec9d49d3d7a5d090481284f748fcafc150258f0af9a6f2033809'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0179_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 淨心誡觀法序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0179_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8013
+  label: 淨心誡觀法
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0179_T_001-mulu-1
+    span:
+    - body
+    - 228
+    - 228
+  label: 1 淨心誡觀法五字釋名法篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0179_T_001-mulu-2
+    span:
+    - body
+    - 619
+    - 619
+  label: 2 誡觀序宗法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0179_T_001-mulu-3
+    span:
+    - body
+    - 1296
+    - 1296
+  label: 3 誡觀五停心觀法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0179_T_001-mulu-4
+    span:
+    - body
+    - 2197
+    - 2197
+  label: 4 誡觀末法中校量心行法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0179_T_001-mulu-5
+    span:
+    - body
+    - 2842
+    - 2842
+  label: 5 誡觀六難自慶修道法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0179_T_001-mulu-6
+    span:
+    - body
+    - 3098
+    - 3098
+  label: 6 誡觀世相如夢修出世善根法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0179_T_001-mulu-7
+    span:
+    - body
+    - 3447
+    - 3447
+  label: 7 誡觀破戒僧尼不修出世法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0179_T_001-mulu-8
+    span:
+    - body
+    - 4065
+    - 4065
+  label: 8 誡觀外現威儀內起邪命法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0179_T_001-mulu-9
+    span:
+    - body
+    - 4385
+    - 4385
+  label: 9 誡觀取相恃善誑佛法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0179_T_001-mulu-10
+    span:
+    - body
+    - 4700
+    - 4700
+  label: 10 誡觀慢天懼人屏處造過法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0179_T_001-mulu-11
+    span:
+    - body
+    - 5285
+    - 5285
+  label: 11 誡觀女人十惡如實厭離解脫法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0179_T_001-mulu-12
+    span:
+    - body
+    - 6341
+    - 6341
+  label: 12 誡觀檀越四事從苦緣起出生法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0179_T_001-mulu-13
+    span:
+    - body
+    - 6907
+    - 6907
+  label: 13 誡觀六道流轉受報無窮法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0179_T_001-mulu-14
+    span:
+    - body
+    - 7358
+    - 7358
+  label: 14 誡觀八風力大智者不動法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0179_T_001-mulu-15
+    span:
+    - body
+    - 7619
+    - 7619
+  label: 15 誡觀身心相苦惱過患法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0179_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9939
+  label: 淨心誡觀法卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0179_T_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 16 誡觀詐善揚名口清心濁法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0179_T_002-mulu-2
+    span:
+    - body
+    - 393
+    - 393
+  label: 17 誡觀眾生各著依正二報法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0179_T_002-mulu-3
+    span:
+    - body
+    - 806
+    - 806
+  label: 18 誡觀煩惱結使法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0179_T_002-mulu-4
+    span:
+    - body
+    - 1246
+    - 1246
+  label: 19 誡觀十八界假緣生法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0179_T_002-mulu-5
+    span:
+    - body
+    - 1734
+    - 1734
+  label: 20 誡觀修習安那般那假相觀法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0179_T_002-mulu-6
+    span:
+    - body
+    - 2138
+    - 2138
+  label: 21 誡觀善惡相資法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0179_T_002-mulu-7
+    span:
+    - body
+    - 2578
+    - 2578
+  label: 22 誡觀六道眾生善惡因果法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0179_T_002-mulu-8
+    span:
+    - body
+    - 3450
+    - 3450
+  label: 23 誡觀行者善護戒財塵賊止劫法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0179_T_002-mulu-9
+    span:
+    - body
+    - 3831
+    - 3831
+  label: 24 誡觀世諦第一義諦法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0179_T_002-mulu-10
+    span:
+    - body
+    - 4228
+    - 4228
+  label: 25 誡觀晚出家人心行法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0179_T_002-mulu-11
+    span:
+    - body
+    - 4789
+    - 4789
+  label: 26 誡觀對發菩提心法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0179_T_002-mulu-12
+    span:
+    - body
+    - 5583
+    - 5583
+  label: 27 誡觀教化眾生法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0179_T_002-mulu-13
+    span:
+    - body
+    - 7517
+    - 7517
+  label: 28 誡觀佛性不一二非有無含中道不著中法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0179_T_002-mulu-14
+    span:
+    - body
+    - 8270
+    - 8270
+  label: 29 誡觀智差別福田不等法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0179_T_002-mulu-15
+    span:
+    - body
+    - 9079
+    - 9079
+  label: 30 誡觀內行密修囑付殷勤受持法
+  type: mulu
+  level: 1
+hash: sha256:89e8c17e1ba7dcfa70c1f0e7d1f9ebae0a912a492d995a826e70d4bc697a7241
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
