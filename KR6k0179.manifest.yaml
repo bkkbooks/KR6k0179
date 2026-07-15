@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0179/v1
 canonical_location: https://kanripo.org/bkk/KR6k0179/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 淨心誡觀法
   identifiers:
@@ -24,13 +24,13 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6k0179_000.yaml, hash: 'sha256:fcac0666c4c9c3a17c02684db1fe053ab80d969a7bd5cb877ee28c812d46331c'}
-  - {seq: 1, filename: KR6k0179_001.yaml, hash: 'sha256:b343a3b249095256a33fdb5da7b30a96c09a8bb980c413ecff0eb178e7be20d6'}
-  - {seq: 2, filename: KR6k0179_002.yaml, hash: 'sha256:93add5f1e22170fe9542e5fa81dcd80007404cf8d21a680c739bd3bd8456a795'}
+  - {seq: 0, filename: KR6k0179_000.yaml, hash: 'sha256:038aa48ca8bc296294a728b6f4cf6b50b0f374122280e80a0e460682511aef2b'}
+  - {seq: 1, filename: KR6k0179_001.yaml, hash: 'sha256:cf4fc08fce2ec119fe566678853f7b08f550dee14c9e10925e9d30cd9f41294d'}
+  - {seq: 2, filename: KR6k0179_002.yaml, hash: 'sha256:3d6b925022501e2d8c565c4df49c118d2c568771fe0f525933d94094157a82aa'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0179_000.markers.yaml, hash: 'sha256:6c3b3ce1d96b56fa95a7d991bcfd75beb96655cd7ca431981cddd3a770bc8a71'}
-  - {seq: 1, role: markers, filename: assets/KR6k0179_001.markers.yaml, hash: 'sha256:01d7394cb54c9234a709a170a321f0f899114509a082b63e0c645d19715d7f1c'}
-  - {seq: 2, role: markers, filename: assets/KR6k0179_002.markers.yaml, hash: 'sha256:029fb44608426efa0b2b2deb60a3777a1a8252fc81230b00294c52f67a09afc1'}
+  - {seq: 0, role: markers, filename: assets/KR6k0179_000.markers.yaml, hash: 'sha256:69329bd78f718215006bd51351c024e68d88c05490b268329edd03305b45c6d7'}
+  - {seq: 1, role: markers, filename: assets/KR6k0179_001.markers.yaml, hash: 'sha256:1630d1c48cc9b513b563c1d0efa8dd3c004b0698341d4fe0b342ee8946d4fd91'}
+  - {seq: 2, role: markers, filename: assets/KR6k0179_002.markers.yaml, hash: 'sha256:54b55b7a865ed7d7eeb57983f9817b854211074ce6cf955d4424d3589fa8ea9c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -362,4 +362,7 @@ table_of_contents:
   label: 30 誡觀內行密修囑付殷勤受持法
   type: mulu
   level: 1
-hash: sha256:760a6d6824480746f72d31412533519dd6af4a68accc186c389e0f923ee880ba
+hash: sha256:53d829ac989c78c9a3b3c2d24485d31521ec00c3ecfa41d960f1c81de8985d38
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
