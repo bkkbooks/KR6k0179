@@ -19,11 +19,11 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6k0179_000-T.yaml, hash: 'sha256:fcac0666c4c9c3a17c02684db1fe053ab80d969a7bd5cb877ee28c812d46331c'}
+  - {seq: 0, filename: KR6k0179_000-T.yaml, hash: 'sha256:e1a48590a1fdb343190e9f384b8966e450cffef63840e61649c0aa0285559d4c'}
   - {seq: 1, filename: KR6k0179_001-T.yaml, hash: 'sha256:b343a3b249095256a33fdb5da7b30a96c09a8bb980c413ecff0eb178e7be20d6'}
   - {seq: 2, filename: KR6k0179_002-T.yaml, hash: 'sha256:93add5f1e22170fe9542e5fa81dcd80007404cf8d21a680c739bd3bd8456a795'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0179_000-T.markers.yaml, hash: 'sha256:97de3b0310088938a323202318f6e5c885d291672ef68b98590db26f4f6190b9'}
+  - {seq: 0, role: markers, filename: assets/KR6k0179_000-T.markers.yaml, hash: 'sha256:78082015817315ab48556256efe3974c118c16244455de348d4064b379e395f9'}
   - {seq: 1, role: markers, filename: assets/KR6k0179_001-T.markers.yaml, hash: 'sha256:9acf1f0a999a71b1c2be1a3170f495954560c0bd17f88d87ad4c7a47399c8276'}
   - {seq: 2, role: markers, filename: assets/KR6k0179_002-T.markers.yaml, hash: 'sha256:088e012d6dbbd17f0b5ecddb4f0e8d42854b2b1f6c67550a02e855ef663f8b8c'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0179_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 淨心誡觀法序
@@ -357,4 +357,4 @@ table_of_contents:
   label: 30 誡觀內行密修囑付殷勤受持法
   type: mulu
   level: 1
-hash: sha256:78dece84e5b677df795616f0cf049de93d7ab9016dd8dcba992cfaba56f719ac
+hash: sha256:e279283f146ff72c9ad859d7274fdcb52a74e8c10b70274924179ff18e0f3866
